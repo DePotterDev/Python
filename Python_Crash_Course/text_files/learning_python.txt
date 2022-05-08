@@ -1,0 +1,8 @@
+In python you can use tuples.
+In python you can use dictionary.
+In python you can use lists.
+In python you can readlines().
+In python you can use Django.
+In python you can do machine learning.
+In python you can do math.
+In python you can import different libraries.
